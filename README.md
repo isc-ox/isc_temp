@@ -4,9 +4,9 @@ this is my first portfolio website
 😂
 ## Trying out the markdown cheatsheet of Github
 
-## header
+## header ##
 
-## subheader
+## subheader ##
 
 header with underline
 ======
