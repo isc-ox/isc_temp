@@ -17,14 +17,14 @@ headeer with underline 2
 making the text **bold** and _italic_**
 ======
 
-1.making out bullet points to see how it works
-....* Target mall
-....* Target mall
+1.making out bullet points to see how it works.
+....* Target mall.
+....* Target mall.
 
-2.making out bullet points to see how it works
-....* Westhill mall
-....* Westhill mall
+2.making out bullet points to see how it works.
+....* Westhill mall.
+....* Westhill mall.
 
-...God favor those who abide his words
-...God favor those who abide his words
-...God favor those who abide his words
+...God favor those who abide his words.
+...God favor those who abide his words.
+...God favor those who abide his words.
